@@ -1,2 +1,2 @@
-# Kieran-Darcy.github.io
-Dictionary of all the Garry Squad words
+# The Garry Squad Dictionary
+Dictionary of all the Garry Squad words.
